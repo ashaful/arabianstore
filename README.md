@@ -1,2 +1,0 @@
-# arabianstore
-For testing
